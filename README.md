@@ -5,19 +5,19 @@ Flutter Grocery App UI
 ## Screenshots  
 
 <p float="left">
+  <img src="screenshots/Sign in.jpg" width="200" />
+  <img src="screenshots/Register.jpg" width="200" /> 
+  <img src="screenshots/Forget Password.jpg" width="200" />
   <img src="screenshots/Splash Screen.jpg" width="200" />
-  <img src="screenshots/2.jpg" width="200" /> 
-  <img src="screenshots/3.jpg" width="200" />
-  <img src="screenshots/4.jpg" width="200" />
-  <img src="screenshots/5.jpg" width="200" /> 
-  <img src="screenshots/6.jpg" width="200" />
-  <img src="screenshots/7.jpg" width="200" />
-  <img src="screenshots/8.jpg" width="200" /> 
-  <img src="screenshots/9.jpg" width="200" />
-  <img src="screenshots/10.jpg" width="200" />
-  <img src="screenshots/11.jpg" width="200" />
-  <img src="screenshots/12.jpg" width="200" />
-  <img src="screenshots/13.jpg" width="200" />
+  <img src="screenshots/Home1.jpg" width="200" /> 
+  <img src="screenshots/Home 2.jpg" width="200" />
+  <img src="screenshots/Product.jpg" width="200" />
+  <img src="screenshots/Categories.jpg" width="200" />
+  <img src="screenshots/SubCategory.jpg" width="200" /> 
+  <img src="screenshots/Favourite.jpg" width="200" />
+  <img src="screenshots/My Cart1.jpg" width="200" />
+  <img src="screenshots/My Cart2.jpg" width="200" />
+  <img src="screenshots/Profile.jpg" width="200" />
 </p>
 
 -------------  
